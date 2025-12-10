@@ -13,7 +13,7 @@ The material is designed so that a beginner in machine learning can follow the e
 ## 1. Project structure
 
 - `Interpreting Random Forests on Heart Disease Data.ipynb` – the main Jupyter notebook. Running all cells reproduces all plots used in the tutorial.
-- `data/heart.csv`- dataset.
+- `heart.csv`- dataset.
 - `Interpreting Random Forests on a Heart Disease Dataset.pdf` – written tutorial.
 - `LICENSE` – MIT.
 
